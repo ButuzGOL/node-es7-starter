@@ -1,1 +1,1 @@
-export default class A {}
+export { default as Animal } from './animal';
