@@ -6,7 +6,7 @@ export default class Animal {
     this.name = name;
   }
 
-  speak(): number {
+  speak(): string {
     return `${this.name} makes a noise.`;
   }
 }
